@@ -16,6 +16,8 @@ This repository contains a Bash script designed to help users manage and inspect
 - Bash shell environment
 - Sudo privileges (if jq is not installed and needs to be automatically installed by the script)
 
+# Usage
+
 1. Clone the repository to your local machine:
    
        git clone https://github.com/PKHarsimran/DNCheckBashScript.git
